@@ -1,4 +1,4 @@
 spring.profiles: dev
 taeng:
-  profile: I'm dev taeng DEV
-  comment: Hello! dev taeng DEV
+  profile: I'm dev taeng DEV2
+  comment: Hello! dev taeng DEV2
