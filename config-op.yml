@@ -1,0 +1,4 @@
+spring.profiles: op
+taeng:
+  profile: I'm op taeng
+  comment: Hello! op taeng
